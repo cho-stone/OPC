@@ -41,7 +41,7 @@
 
 ![image](https://github.com/cho-stone/OPC/assets/74195857/25ed6946-335c-4bf4-93c1-37307e690d74)  
 * 굿 엔딩과 베드 엔딩을 선택지에 따라 가르기 위해 변수를 선언하여 줍니다.
-* 그 다음 아래에 분기점을 설정합니다
+* 그다음 아래에 분기점을 설정합니다
 
 ![image](https://github.com/cho-stone/OPC/assets/74195857/1b0f52b2-252b-4430-a287-6ad39a7f5639)
 ![image](https://github.com/cho-stone/OPC/assets/74195857/e19aa2bf-9517-4796-b092-e73d24bf61d8)
@@ -49,6 +49,9 @@
 * 분기점을 선택하면 Label 블록을 통해 각 선택에 맞는 상황으로 이동하게 됩니다.
 * 다음 변수를 상황에 맞게 연산하여 줍니다.
 * 각 상황 끝에 Jump 블록을 놓아 다음 씬으로 넘어가도록 합니다.
+
+![image](https://github.com/cho-stone/OPC/assets/74195857/1e9c7ef7-9055-4737-b5cc-5495f52091d9)
+* 마지막 분기점에서는 엔딩을 가르기 위해 조건문으로 적합한 엔딩을 정해주었습니다.
 
 
 <br>
