@@ -1,5 +1,5 @@
 # 🎮 Opportunity Cost
-![opcg](https://github.com/cho-stone/OPC/assets/74195857/aa9cc507-a175-4596-a173-082e6f1852a2)
+
 ## 🗒 프로젝트 개요
 ### 1. 제작기간
 > 2017.9 ~ 2017.11
@@ -31,6 +31,15 @@
 > 
 > 게임 개발자의 꿈을 꾸게 된 은우는 과연 동아리를 무사히 운영할 수 있을까?
 <br>
+
+## 게임 진행 방식
+![opcg](https://github.com/cho-stone/OPC/assets/74195857/aa9cc507-a175-4596-a173-082e6f1852a2)
+* 기본적으로 마우스 클릭을 통해 텍스트를 넘기며 이야기를 진행합니다.
+<br>
+
+![1231](https://github.com/cho-stone/OPC/assets/74195857/d19cea23-2a1f-4c44-9008-a4346acee396)
+* 선택지가 나오면 둘 중 하나를 골라 이야기를 진행합니다.
+* 선택에 따라 결말이 달라집니다.
 
 ## 💻 주요 구현 내용
 ![image](https://github.com/cho-stone/OPC/assets/74195857/198c34bb-34f2-4182-be0f-8ae51480c343)  
