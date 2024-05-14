@@ -1,4 +1,5 @@
 # 🎮 Opportunity Cost
+![123](https://github.com/cho-stone/Portfolio/assets/74195857/3a341f65-e0ee-4d67-8bcc-0af6e2731944)
 
 ## 🗒 프로젝트 개요
 ### 1. 제작기간
