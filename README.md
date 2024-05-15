@@ -7,11 +7,11 @@
 ### 2. 참여인원 및 역할
 > |이름|역할|
 > |:------:|:---:|
-> |[배광호](https://github.com/kangho1117)|배경|
+> |[배광호](https://github.com/kangho1117)|배경 수집|
 > | |캐릭터 디자인|
 > | |소설, 코드 검토 및 수정|
-> |[조석진](https://github.com/cho-stone)|사운드|
-> | |스토리|
+> |[조석진](https://github.com/cho-stone)|음향/효과음 수집|
+> | |스토리 구성|
 > | |프로그래밍|
 ### 3. 사용 언어 및 도구
 [TyranoBuilder Visual Novel Studio](https://tyranobuilder.com/)
